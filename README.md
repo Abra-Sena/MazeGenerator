@@ -11,7 +11,7 @@ The arraylist is shuffle to get random pairs, this generates a different maze ev
 - A knocked-down wall is represented by a red line on the canvas.
 
 ### Random Maze with a Grid of size 10 by 10
-<img src='size-10by10.png' title='random-maze' width='400' alt='random-maze' />
+<img src='size-10by10.png' title='random-maze' width='800' alt='random-maze' />
 
 
 ## *Technology*
@@ -20,9 +20,9 @@ The arraylist is shuffle to get random pairs, this generates a different maze ev
 - Data type: Integer
 
 ## *External Resources and Library*
--[x] [ObjectDraw]() for Maze visualisation.
--[x] [Union-find]() algorithm from Robert Sedgewick and Kevin Wayne Algorithms.
--[x] [StdIn.java]() for inputs reading and [StdOut.java]() to print out strings on standard output
+-[x] [ObjectDraw](https://zahniser.net/computer/ObjectDraw%20Library.html) for Maze visualisation.
+-[x] [Union-find](https://algs4.cs.princeton.edu/code/) algorithm from Robert Sedgewick and Kevin Wayne Algorithms.
+-[x] [StdIn.java](https://algs4.cs.princeton.edu/code/edu/princeton/cs/algs4/StdIn.java.html) for inputs reading and [StdOut.java](https://algs4.cs.princeton.edu/code/edu/princeton/cs/algs4/StdOut.java.html) to print out strings on standard output
 
 
 ## *Project's Requirements*
