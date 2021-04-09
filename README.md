@@ -11,7 +11,7 @@ The arraylist is shuffle to get random pairs, this generates a different maze ev
 - A knocked-down wall is represented by a red line on the canvas.
 
 ### Random Maze with a Grid of size 10 by 10
-<img src='size-10by10.png' title='random-maze' width='250' alt='random-maze' />
+<img src='size-10by10.png' title='random-maze' width='400' alt='random-maze' />
 
 
 ## *Technology*
